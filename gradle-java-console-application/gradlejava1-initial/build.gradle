@@ -3,6 +3,7 @@ plugins {
   id 'java'
 }
 
+project.group = 'com.denofprogramming'
 project.version = '0.0.1-SNAPSHOT'
 
 //Repositories definition
@@ -18,13 +19,20 @@ dependencies {
 
 // jar task custom configuration
 jar {
-  archivesBaseName = "$project.name-all"
-  println ">>>> baseName: $archivesBaseName"
+  archivesBaseName = "$project.name"
 
   manifest {
     attributes 'Imnplementation-Title' : 'Gradle all inclusive jar',
-               'Implementation-Version' : version,
+               'Implementation-Version' : project.version,
                'Created-By' : 'denOfProgramming',
                'Main-Class' : 'com.denofprogramming.random.App'
   }
+
+  from {
+    project.configurations.runtimeClasspath.collect{ File file -> project.zipTree(file)}
+  }
+
+  //println ">>>> baseName: $archivesBaseName"
+  //println ">>>> manifest.attributes: $manifest.attributes"
+  //println project.configurations.runtimeClasspath.collect{ File file -> project.zipTree(file)}
 }
