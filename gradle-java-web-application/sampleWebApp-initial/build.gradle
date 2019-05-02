@@ -9,6 +9,7 @@ version = '0.0.1-SNAPSHOT'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
+project.ext.tomcatWebapps = 'D:/tomcat-9/webapps'
 
 
 repositories{
@@ -32,7 +33,13 @@ dependencies {
 }
 
 war {
-	archiveFileName = 'mywebapp.war'
+	archiveFileName = 'mywebappInitial.war'
+}
+
+// Deploying the web application to Tomcat
+task deployToTomcat(type: Copy, dependsOn: 'war') {
+	from war.archiveFile
+	into "$tomcatWebapps"
 }
 
 
