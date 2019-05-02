@@ -339,12 +339,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.gradlejava1-initialJAR" />
       <item itemvalue="Gradle.Build_java_1" />
       <item itemvalue="Gradle.gradlejava1-initial [build]" />
+      <item itemvalue="Gradle.gradlejava1-initial [dependencies]" />
       <item itemvalue="Gradle.gradlejava1-initial [jar]" />
       <item itemvalue="Gradle.gradlejava1-initial [javadoc]" />
-      <item itemvalue="Gradle.gradlejava1-initial [dependencies]" />
+      <item itemvalue="Gradle.gradlejava1-initialJAR" />
     </list>
     <recent_temporary>
       <list>
