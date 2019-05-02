@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f17ee62e-90e2-4038-b1b6-95d5233a7b47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/App.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/DefaultRandomGenerator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/RandomGenerator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/com/denofprogramming/random/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index-all.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/package-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/docs/javadoc/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/javadoc/javadoc.options" beforeDir="false" />
-    </list>
+    <list default="true" id="f17ee62e-90e2-4038-b1b6-95d5233a7b47" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -101,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="221">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -133,79 +110,13 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="gradlejava1-initial-0.0.1-SNAPSHOT.jar" type="f0208c43:PsiZipFileNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="gradlejava1-initial-0.0.1-SNAPSHOT.jar" type="f0208c43:PsiZipFileNode" />
-              <item name="org" type="55aa87d4:PsiGenericDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="gradlejava1-initial-0.0.1-SNAPSHOT.jar" type="f0208c43:PsiZipFileNode" />
-              <item name="org" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="apache" type="55aa87d4:PsiGenericDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="gradlejava1-initial-0.0.1-SNAPSHOT.jar" type="f0208c43:PsiZipFileNode" />
-              <item name="org" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="apache" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="commons" type="55aa87d4:PsiGenericDirectoryNode" />
-            </path>
-            <path>
-              <item name="gradlejava1-initial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gradlejava1-initial" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
-              <item name="gradlejava1-initial-0.0.1-SNAPSHOT.jar" type="f0208c43:PsiZipFileNode" />
-              <item name="org" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="apache" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="commons" type="55aa87d4:PsiGenericDirectoryNode" />
-              <item name="math3" type="55aa87d4:PsiGenericDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gradle-java-web-application/sampleWebApp-initial" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -339,12 +250,12 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Gradle.gradlejava1-initialJAR" />
       <item itemvalue="Gradle.Build_java_1" />
       <item itemvalue="Gradle.gradlejava1-initial [build]" />
-      <item itemvalue="Gradle.gradlejava1-initial [dependencies]" />
       <item itemvalue="Gradle.gradlejava1-initial [jar]" />
       <item itemvalue="Gradle.gradlejava1-initial [javadoc]" />
-      <item itemvalue="Gradle.gradlejava1-initialJAR" />
+      <item itemvalue="Gradle.gradlejava1-initial [dependencies]" />
     </list>
     <recent_temporary>
       <list>
@@ -378,10 +289,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="720" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27348486" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -455,6 +366,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build/reports/tests/test/index.html" />
+    <entry file="jar://$PROJECT_DIR$/build/libs/gradlejava1-initial-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/denofprogramming/random/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -462,13 +374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/build/libs/gradlejava1-initial-0.0.1-SNAPSHOT.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="221">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>

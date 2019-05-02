@@ -1,5 +1,6 @@
 plugins {
   id 'java'
+  id 'war'
 }
 
 group = 'com.denofprogramming'
@@ -28,6 +29,10 @@ dependencies {
 	compileOnly "javax.servlet:javax.servlet-api:3.0.1"
 	testImplementation	'junit:junit:4.11'
 
+}
+
+war {
+	archiveFileName = 'mywebapp.war'
 }
 
 
