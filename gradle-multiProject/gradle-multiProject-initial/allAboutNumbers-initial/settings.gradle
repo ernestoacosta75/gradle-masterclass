@@ -1,6 +1,7 @@
+//Elenco dei sotto-progetti che desideriamo includere nella build generale
 include 'pickerNumberApplication1-initial', 'plusplus-initial', 'randomNumberGen1-initial'
 
+// Nome del progetto padre
 rootProject.name = 'allAboutNumbers-initial'
-
 
 
